@@ -1,0 +1,4 @@
+from math import pi
+radius = float(input("Input the radius of circle : "))
+area = pi*radius*radius
+print("area of circle with radius", format(radius),"is : ",format(area,'.3f'),"sq units")
