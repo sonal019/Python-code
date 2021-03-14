@@ -1,3 +1,3 @@
 # Python-code
 
-Small Code Based on Python language.
+Small Codes Based on Python language.
